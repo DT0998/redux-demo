@@ -1,3 +1,3 @@
 const redux = require('redux');
 
-const store = redux.createStore();
+const store = redux.configureStore();
